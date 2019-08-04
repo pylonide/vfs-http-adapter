@@ -1,24 +1,25 @@
 {
-    "author": "Ajax.org B.V. <info@ajax.org>",
-    "contributors": [
-        { "name": "Tim Caswell", "email": "tim@c9.io>" }
-    ],
-    "name": "vfs-http-adapter",
-    "description": "A http middleware to wrap vfs instances and expose them via a RESTful interface",
-    "version": "0.2.3",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/c9/vfs-http-adapter.git"
+  "author": "Ajax.org B.V. <info@ajax.org>",
+  "contributors": [
+    {
+      "name": "Tim Caswell",
+      "email": "tim@c9.io>"
     },
-    "main": "restful.js",
-    "dependencies": {},
-    "devDependencies": {},
-    "optionalDependencies": {},
-    "licenses" : [{
-        "type" : "MIT",
-        "url" : "http://github.com/c9/vfs-http-adapter/raw/master/LICENSE"
-    }],
-    "engines": {
-       "node": "*"
-    }
+    "Sten Feldman <exile@chamber.ee> (http://sten.feldman.eesti.ee/)"
+  ],
+  "name": "@pylonide/vfs-http-adapter",
+  "description": "A http middleware to wrap vfs instances and expose them via a RESTful interface",
+  "version": "0.3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pylonide/vfs-http-adapter.git"
+  },
+  "main": "restful.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.9.1"
+  }
 }
