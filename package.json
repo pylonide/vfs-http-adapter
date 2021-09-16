@@ -5,11 +5,11 @@
       "name": "Tim Caswell",
       "email": "tim@c9.io>"
     },
-    "Sten Feldman <exile@chamber.ee> (http://sten.feldman.eesti.ee/)"
+    "Sten Feldman <exile@chamber.ee> (https://sten.pw/)"
   ],
   "name": "@pylonide/vfs-http-adapter",
   "description": "A http middleware to wrap vfs instances and expose them via a RESTful interface",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/pylonide/vfs-http-adapter.git"
@@ -20,6 +20,6 @@
   "optionalDependencies": {},
   "license": "MIT",
   "engines": {
-    "node": ">= 4.9.1"
+    "node": ">= 12.22.1"
   }
 }
