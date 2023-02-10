@@ -1,5 +1,7 @@
 # HTTP Adapter
 
+![Build Status](https://github.com/pylonide/vfs-http-adapter/actions/workflows/nodejs.yml/badge.svg)
+
 This module is a connect/stack middleware module that wraps a vfs instance and
 serves it via a HTTP RESTful interface.
 
