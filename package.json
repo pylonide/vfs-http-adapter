@@ -1,6 +1,6 @@
 {
   "name": "@pylonide/vfs-http-adapter",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "A http middleware to wrap vfs instances and expose them via a RESTful interface",
   "author": "Sten Feldman <exile@chamber.ee>",
   "contributors": [
@@ -25,6 +25,6 @@
   "optionalDependencies": {},
   "license": "MIT",
   "engines": {
-    "node": ">= 18.18.2"
+    "node": ">= 20.19.0"
   }
 }
